@@ -14,3 +14,7 @@ output
 /build
 
 .classpath
+
+.idea
+
+*.iml
